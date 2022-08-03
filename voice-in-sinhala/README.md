@@ -1,0 +1,3 @@
+## Prerequisites
+Mysql
+Apache 
